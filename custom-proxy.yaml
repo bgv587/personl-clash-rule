@@ -5,3 +5,6 @@ payload:
   # chaturbate
   - DOMAIN-SUFFIX,mmcdn.com
   - DOMAIN-SUFFIX,highwebmedia.com
+  # my
+  - DOMAIN-SUFFIX,splunkcloud.com
+  
